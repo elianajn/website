@@ -29,8 +29,8 @@ about_profile_image: images/profile.jpg
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
-# Projects Section
-# projects_title: Projects
+Projects Section
+projects_title: Technical Skills
 
 # Experience Section
 # experience_title: Experience
@@ -41,11 +41,11 @@ about_profile_image: images/profile.jpg
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Outdoor Sports
-     Two national podium finishes, Ten State/Regional Championships (Cyclocross, Track, Road, and Regional Track)
-     Skiing
-     Climbing 
+  Alongside my interests in computer science I love doing outdoor sports, including (but definitely not limited to!)
+    * Cycling 
+      * Two national podium finishes, Ten State/Regional Championships (Cyclocross, Track, Road, and Regional Track)
+    * Skiing
+    * Climbing 
 
 # Footer
 footer_show_references: true

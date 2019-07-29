@@ -8,4 +8,26 @@
   description: | # this will include new lines to allow paragraphs
     - Completed summer coursework and projects in Chemical and Computer Engineering disciplines.
     - Built a self-guided device to autonomously navigate an obstacle course through writing in Python and assembling Arduino hardware
-    - Utilized basic CAD skills for 3D printing and materials design.
+    - Utilized basic CAD skills for 3D printing and materials design.tilized basic CAD skills for 3D printing and materials design.
+
+- layout: left
+  company: SRAM Components
+  #link: boringcompany.com
+  job_title: Engineering Interns
+  dates: Summer 2016
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    - Built and programmed an interface to monitor systems in the Test Lab.
+    - Wired an Arduino board to LEDs, writing code in Python on Linux to monitor a number of servers
+    - Soldered and welded device into enclosure through self teaching
+
+- layout: left
+  company: Various
+  #link: boringcompany.com
+  job_title: Retail Support and Sales Associate
+  dates: 2016 - 2019
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    - Performed high end sales, food service, and high quantity inventory management at high end cycling clothing store and women’s boutique

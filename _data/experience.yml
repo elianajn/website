@@ -1,4 +1,16 @@
 - layout: left
+  company: Lawrence Livermore National Laboratory
+  #link: boringcompany.com
+  job_title: High Performance Computer System Engineering Interns
+  dates: Summer 2019
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    - Configured and automated the installation of a five-node cluster, saving hours of time necessary for OS installation.  
+    - Wrote system configuration manifests using Puppet for the tools necessary for an HPC simulation workflow submission tool.
+    - Assessed and solved system configuration problems in the machine room ensuring extenrtal cluster access.  
+
+- layout: left
   company: University of Illinois at Chicago
   #link: boringcompany.com
   job_title: Women in Engineering Program
@@ -7,8 +19,8 @@
   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
     - Completed summer coursework and projects in Chemical and Computer Engineering disciplines.
-    - Built a self-guided device to autonomously navigate an obstacle course through writing in Python and assembling Arduino hardware
-    - Utilized basic CAD skills for 3D printing and materials design.tilized basic CAD skills for 3D printing and materials design.
+    - Built a self-guided device to autonomously navigate an obstacle course through writing in Python and assembling Arduino hardware.
+    - Utilized basic CAD skills for 3D printing and materials design.
 
 - layout: left
   company: SRAM Components
@@ -30,4 +42,4 @@
   #quote: >
   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    - Performed high end sales, food service, and high quantity inventory management at high end cycling clothing store and women’s boutique
+    - Performed high end sales, food service, and high quantity inventory management at high end cycling clothing store and women’s boutique.

@@ -1,4 +1,4 @@
-- layout: left
+# - layout: left
   # name: Experienced
   description: | # this will include new lines to allow paragraphs
     - Built an HTTP proxy used in curl and Firefox requests (C)

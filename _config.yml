@@ -21,6 +21,7 @@ linkedin_username: elianajn
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
@@ -46,7 +47,7 @@ projects_title: Projects
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in computer science I love doing outdoor sports, including cycling (with two national podium finishes and ten State/Regional Championships in Cyclocross, Track, and Road),
   climbing, skiing, and hiking.
-  
+
   I also enjoy textile crafting, such as sewing, crocheting, and cross stitching. I recently crocheted a chalk bag, and have had some of my cross stitching work
   displayed in the Chicago Cultural Center. I consider music and dancing to be life's greatest joys, and cannot wait for the day live music becomes part of
   normal daily life again.

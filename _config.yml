@@ -25,19 +25,20 @@ linkedin_username: elianajn
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name's Eliana, though I often go by Ella, and I'm a computer science student based out of Chicago and Colorado Springs. I'm a second year student at Colorado College, but have been into coding for a good chunk of my life. 
+  My name's Eliana, though I often go by Ella, and I'm a computer science student based out of Chicago and Colorado Springs. I'm a second year student at Colorado College, but have been into coding for a good chunk of my life.
 #  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
+# Education Section
+educaton_title: Education
+
+# Experience Section
+experience_title: Experience
+
 #Projects Section
 projects_title: Technical Skills
 
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
@@ -45,7 +46,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in computer science I love doing outdoor sports, including (but definitely not limited to!)
     * Cycling, with two national podium finishes and ten State/Regional Championships (Cyclocross, Track, Road, and Regional Track)
     * Skiing
-    * Climbing 
+    * Climbing
 
 # Footer
 footer_show_references: true

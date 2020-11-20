@@ -1,6 +1,6 @@
-- layout: left
+- layout: top-middle
   # name: Experienced
-  description: # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
     - Built an HTTP proxy used in curl and Firefox requests (C)
     - Developed a distilled Java parser, type checker, and interpreter, using language grammars and static semantics (Haskell)
     - Reverse engineered x86 code to C pseudocode to analyze register processes

@@ -51,6 +51,10 @@ more_content: | # this will include new lines to allow paragraphs
   I also enjoy textile crafting, such as sewing, crocheting, and cross stitching. I recently crocheted a chalk bag, and have had some of my cross stitching work
   displayed in the Chicago Cultural Center. I consider music and dancing to be life's greatest joys, and cannot wait for the day live music becomes part of
   normal daily life again.
+# more_img_1:
+# more_img_2:
+# more_img_3:
+# more_img_4:
 
 # Footer
 footer_show_references: true

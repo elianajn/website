@@ -6,9 +6,9 @@
   #quote: >
   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    - Configured and automated the installation of a five-node cluster, saving hours of time necessary for OS installation.  
+    - [Configured and automated](https://github.com/elianajn/node-automation) the installation of a five-node cluster, saving hours of time necessary for OS installation.
     - Wrote system configuration manifests using Puppet for the tools necessary for an HPC simulation workflow submission tool.
-    - Assessed and solved system configuration problems in the machine room ensuring extenrtal cluster access.  
+    - Assessed and solved system configuration problems in the machine room ensuring extenrtal cluster access.
 
 - layout: left
   company: University of Illinois at Chicago
@@ -35,7 +35,7 @@
     - Soldered and welded device into enclosure through self teaching
 
 - layout: left
-  company: Various
+  company: Rapha, Presence
   #link: boringcompany.com
   job_title: Retail Support and Sales Associate
   dates: 2016 - 2019

@@ -1,10 +1,10 @@
 - layout: left
-  name: Experienced
+  # name: Experienced
   description: | # this will include new lines to allow paragraphs
-    - Java
-    - Linux (Redhat/CentOS7)
-
-- layout: left
-  name: Worked with
-  description: |
-    - 
+    - Built an HTTP proxy used in curl and Firefox requests (C)
+    - Developed a distilled Java parser, type checker, and interpreter, using language grammars and static semantics (Haskell)
+    - Reverse engineered x86 code to C pseudocode to analyze register processes
+    - Implemented a number of software projects, including a [virtual arcade](https://github.com/SoftwareDesign20182019/ColoradoCollegeArcade), utilizing design patterns such as command, factory, and strategy (Java)
+    - Implemented machine learning algorithms to build a [decision tree classifier](https://github.com/elianajn/decision_tree) (Python)
+    - Developed a simple assembler (Java)
+    - Programmed an example of the [Diffie-Hellman](https://github.com/elianajn/MA201_Diffie_Hellman) cryptographic encryption method

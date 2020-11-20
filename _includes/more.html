@@ -5,7 +5,8 @@
       {{ site.more_content | strip | markdownify }}
     </div>
     {%- if site.about_profile_image -%}
-      <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+      <!-- <div class="col-xs-12 col-sm-4 col-md-3 no-print"> -->
+      <div class="col-xs-12 col-sm-4 col-md-3 ">
         <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})" />
       </div>
     {%- endif -%}

@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     - [Configured and automated](https://github.com/elianajn/node-automation) the installation of a five-node cluster, saving hours of time necessary for OS installation.
     - Wrote system configuration manifests using Puppet for the tools necessary for an HPC simulation workflow submission tool.
-    - Assessed and solved system configuration problems in the machine room ensuring extenrtal cluster access.
+    - Assessed and solved system configuration problems in the machine room ensuring external cluster access.
 
 - layout: left
   company: University of Illinois at Chicago

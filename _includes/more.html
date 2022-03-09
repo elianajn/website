@@ -7,7 +7,9 @@
     {%- if site.more_img_1 -%}
       <div class="col-xs-3 col-sm-3 col-md-3">
       <!-- <div class="col-xs-12 col-md-3 "> -->
-        <span class="rectangle" style="background-image: url({{ site.more_img_1 | relative_url }})" />
+        <div style="width:200px;height:200px;overflow:hidden">
+          <img src="images/img_1.jpg" />
+        </div>
       </div>
     {%- endif -%}
     {%- if site.more_img_2 -%}

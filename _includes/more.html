@@ -4,10 +4,10 @@
     <div class="col-md-12">
       {{ site.more_content | strip | markdownify }}
     </div>
-    {%- if site.about_profile_image -%}
+    {%- if site.more_img_1 -%}
       <div class="col-xs-12 col-sm-4 col-md-3 no-print">
       <div class="col-xs-12 col-md-3 ">
-        <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})" />
+        <span class="img_1" style="background-image: url({{ site.about_profile_image | relative_url }})" />
       </div>
     {%- endif -%}
     <!-- <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
